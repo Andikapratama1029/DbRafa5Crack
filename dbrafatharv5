@@ -1,7 +1,10 @@
 {
   "keys": [
     {
-      "key": "dreamtampan",
+      "key": ["dreamtampan",
+      "Elxz",
+      "ramzz"
+      ],
       "numbers": [
         "6285709011754",
         "62895370028701",
